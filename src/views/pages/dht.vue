@@ -6,7 +6,7 @@
   </p>  
 
  <p class="left">
-      Video 2: <a href="" target="_blank">Video 2
+      Video 2: <a href="https://drive.google.com/file/d/1t1Mh8EPQt8qyFeK0N3VTV4WST_1JkP3B/view?usp=sharing" target="_blank">Video 2
 </a>
   </p>  
 
@@ -17,7 +17,7 @@
 
 
  <p class="left">
-      Video 4: <a href="" target="_blank">Video 4
+      Video 4: <a href="https://drive.google.com/file/d/1FQe9wZAP_sLuM7D0b_2U3OUPtQPzhhgb/view?usp=sharing" target="_blank">Video 4
 </a>
   </p>  
   <p class="left">
