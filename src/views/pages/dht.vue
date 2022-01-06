@@ -18,7 +18,7 @@
       </a>
     </p>
 
-    <p class="left">Video 3: <a href="" target="_blank">Video 3 </a></p>
+    <p class="left">Video 3: <a href="https://drive.google.com/file/d/1wM1kzkqp0-5E6Eg9QbY9hKUCKrzUGqxq/view?usp=sharing" target="_blank">Video 3 </a></p>
 
     <p class="left">
       Video 4:
