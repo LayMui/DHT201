@@ -6,5 +6,9 @@
   </p>  
 
 
+<p class="left">
+      Original Videos: <a href="https://www.dominionlifemovement.com/training" target="_blank">https://www.dominionlifemovement.com/training
+</a>
+  </p>  
   </div>
 </template>
