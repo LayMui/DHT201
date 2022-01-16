@@ -47,5 +47,14 @@
         >Video 7
       </a>
     </p>
+
+      <p class="left">
+      Video 8:
+      <a
+        href="https://drive.google.com/file/d/1C6RYRQKgmzsB186swaYF5jzghyehv9B9/view?usp=sharing"
+        target="_blank"
+        >Video 8
+      </a>
+    </p>
   </div>
 </template>
