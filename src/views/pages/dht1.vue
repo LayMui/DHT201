@@ -56,5 +56,22 @@
         >Video 8
       </a>
     </p>
+
+     <p class="left">
+      Video 9:
+      <a
+        href=""
+        target="_blank"
+        >Video 9
+      </a>
+    </p>
+      <p class="left">
+      Video 10:
+      <a
+        href=""
+        target="_blank"
+        >Video 10
+      </a>
+    </p>
   </div>
 </template>

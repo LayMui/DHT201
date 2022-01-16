@@ -1,0 +1,75 @@
+<template>
+  <div class="text-center">
+    <p class="left">
+      Video 11:
+      <a
+        href=""
+        target="_blank"
+        >Video 11
+      </a>
+    </p>
+
+    <p class="left">Video 12: <a href="" target="_blank">Video 12 </a></p>
+
+    <p class="left">
+      Video 13:
+      <a
+        href=""
+        target="_blank"
+        >Video 13
+      </a>
+    </p>
+  
+    <p class="left">
+      Video 14:
+      <a
+        href=""
+        target="_blank"
+        >Video 14
+      </a>
+    </p>
+
+    <p class="left">
+      Video 15:
+      <a
+        href=""
+        target="_blank"
+        >Video 15
+      </a>
+    </p>
+
+      <p class="left">
+      Video 16:
+      <a
+        href=""
+        target="_blank"
+        >Video 16
+      </a>
+    </p>
+
+     <p class="left">
+      Video 17:
+      <a
+        href=""
+        target="_blank"
+        >Video 17
+      </a>
+    </p>
+     <p class="left">
+      Video 18:
+      <a
+        href=""
+        target="_blank"
+        >Video 18
+      </a>
+    </p>
+     <p class="left">
+      Video 19:
+      <a
+        href=""
+        target="_blank"
+        >Video 19
+      </a>
+    </p>
+  </div>
+</template>

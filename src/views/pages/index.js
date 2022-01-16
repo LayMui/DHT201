@@ -1,6 +1,6 @@
 import video from './video'
-import dht from './dht'
-
+import dht1 from './dht1'
+import dht2 from './dht2'
 
 const pages = [
   {
@@ -11,14 +11,20 @@ const pages = [
     component: video,
   },
   {
-    name: 'DHT Q & A',
+    name: 'DHT Q & A Video 1-10',
     meta: {
-      title: 'DHT Q & A',
+      title: 'DHT Q & A Video 1-10',
     },
-    component: dht,
+    component: dht1,
   },
-  
-  
+
+  {
+    name: 'DHT Q & A Video 11-19',
+    meta: {
+      title: 'DHT Q & A Video 11-19',
+    },
+    component: dht2,
+  },
 ]
 
 pages.forEach((page, index) => page.path = `${index + 1}`)
