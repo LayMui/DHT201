@@ -68,7 +68,7 @@
       <p class="left">
       Video 10:
       <a
-        href=""
+        href="https://drive.google.com/file/d/15OlR596iPdrF03ggSeASY9BENrK6WrGk/view?usp=sharing"
         target="_blank"
         >Video 10
       </a>
