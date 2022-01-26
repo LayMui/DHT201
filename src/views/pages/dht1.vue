@@ -28,7 +28,7 @@
         >Video 4
       </a>
     </p>
-    <p class="left">Video 5: <a href="" target="_blank">Video 5 </a></p>
+    <p class="left">Video 5: <a href="" style="color:red;" target="_blank">Video 5 </a></p>
 
     <p class="left">
       Video 6:
@@ -61,6 +61,7 @@
       Video 9:
       <a
         href=""
+        style="color:red;"
         target="_blank"
         >Video 9
       </a>

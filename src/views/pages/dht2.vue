@@ -3,19 +3,21 @@
     <p class="left">
       Video 11:
       <a
-        href=""
+        href="https://drive.google.com/file/d/1Z8Va7DJSuEIHuf9WKe0ICHXWXckgrise/view?usp=sharing"
         target="_blank"
         >Video 11
       </a>
     </p>
 
-    <p class="left">Video 12: <a href="" target="_blank">Video 12 </a></p>
+    <p class="left">Video 12: <a href=""  style="color:violet;" target="_blank">Video 12 </a></p>
 
     <p class="left">
       Video 13:
       <a
         href=""
+        style="color:violet;"
         target="_blank"
+       
         >Video 13
       </a>
     </p>
@@ -24,6 +26,7 @@
       Video 14:
       <a
         href=""
+        style="color:violet;"
         target="_blank"
         >Video 14
       </a>
@@ -33,6 +36,7 @@
       Video 15:
       <a
         href=""
+        style="color:violet;"
         target="_blank"
         >Video 15
       </a>
@@ -42,6 +46,7 @@
       Video 16:
       <a
         href=""
+        style="color:violet;"
         target="_blank"
         >Video 16
       </a>
@@ -51,6 +56,7 @@
       Video 17:
       <a
         href=""
+        style="color:violet;"
         target="_blank"
         >Video 17
       </a>
@@ -59,6 +65,7 @@
       Video 18:
       <a
         href=""
+        style="color:violet;"
         target="_blank"
         >Video 18
       </a>
@@ -67,6 +74,7 @@
       Video 19:
       <a
         href=""
+        style="color:violet;"
         target="_blank"
         >Video 19
       </a>
