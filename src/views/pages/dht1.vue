@@ -28,7 +28,7 @@
         >Video 4
       </a>
     </p>
-    <p class="left">Video 5: <a href="" style="color:red;" target="_blank">Video 5 </a></p>
+    <p class="left">Video 5: <a href="https://docs.google.com/document/d/e/2PACX-1vTSYFCIy02kcNhLeLn9PIqBLiPZDJ_gssaAAb5YAVcCUn_bWAjO8epkTy72yTZVcA/pub" style="color:red;" target="_blank">Video 5 </a></p>
 
     <p class="left">
       Video 6:
@@ -60,7 +60,7 @@
      <p class="left">
       Video 9:
       <a
-        href=""
+        href="https://drive.google.com/file/d/1-XfVnP3E_GJixAyUwNsYP4IrOhT4SofB/view?usp=sharing"
         style="color:red;"
         target="_blank"
         >Video 9
