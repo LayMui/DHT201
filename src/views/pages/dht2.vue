@@ -9,15 +9,13 @@
       </a>
     </p>
 
-    <p class="left">Video 12: <a href=""  style="color:violet;" target="_blank">Video 12 </a></p>
+    <p class="left">Video 12: <a href="https://drive.google.com/file/d/1X6BK25hRc-lgRVL7Ctz3JzaKhnEWGUF0/view?usp=sharing" target="_blank">Video 12 </a></p>
 
     <p class="left">
       Video 13:
       <a
-        href=""
-        style="color:violet;"
-        target="_blank"
-       
+        href="https://drive.google.com/file/d/1LoGOyVyp7q1HDcXV5vhI0oXnzk6G1URe/view?usp=sharing"
+        target="_blank"  
         >Video 13
       </a>
     </p>
@@ -35,8 +33,7 @@
     <p class="left">
       Video 15:
       <a
-        href=""
-        style="color:violet;"
+        href="https://drive.google.com/file/d/1_7nDspFegcr8ADKwLfa1KoFIUz3Wl-Ge/view?usp=sharing"
         target="_blank"
         >Video 15
       </a>
