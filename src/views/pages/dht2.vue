@@ -23,8 +23,8 @@
     <p class="left">
       Video 14:
       <a
-        href=""
-        style="color:violet;"
+        href="https://docs.google.com/document/d/1K-qPzvQh_GoHEumsYPBBlV8r_VrOIyqC/edit?usp=sharing&ouid=112909495306506560695&rtpof=true&sd=true"
+      
         target="_blank"
         >Video 14
       </a>
