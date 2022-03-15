@@ -23,8 +23,7 @@
     <p class="left">
       Video 14:
       <a
-        href="https://docs.google.com/document/d/1K-qPzvQh_GoHEumsYPBBlV8r_VrOIyqC/edit?usp=sharing&ouid=112909495306506560695&rtpof=true&sd=true"
-      
+        href="https://drive.google.com/file/d/18rJW5h6sovCIddj9w_Y7ZpET61xy7iw2/view?usp=sharing"
         target="_blank"
         >Video 14
       </a>
