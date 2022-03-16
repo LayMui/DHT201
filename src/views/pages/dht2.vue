@@ -50,8 +50,8 @@
      <p class="left">
       Video 17:
       <a
-        href=""
-        style="color:violet;"
+        href="https://drive.google.com/file/d/1geRpLtTFRFskG0porUUTFvlF7aDiY9FW/view?usp=sharing"
+        style="color:red;"
         target="_blank"
         >Video 17
       </a>
