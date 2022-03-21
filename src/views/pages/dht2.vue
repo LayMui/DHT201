@@ -55,8 +55,7 @@
      <p class="left">
       Video 17:
       <a
-        href="https://drive.google.com/file/d/1geRpLtTFRFskG0porUUTFvlF7aDiY9FW/view?usp=sharing"
-        style="color:red;"
+        href="https://drive.google.com/file/d/1lgLofq1dV02judduO4GYTE3ZkuAu_U_c/view?usp=sharing"
         target="_blank"
         >Video 17
       </a>
@@ -64,8 +63,7 @@
      <p class="left">
       Video 18:
       <a
-        href=""
-        style="color:violet;"
+        href="https://drive.google.com/file/d/1peE2t9t2CnPsoKK_ijD-GJg9kPi3TnuE/view?usp=sharing"
         target="_blank"
         >Video 18
       </a>
