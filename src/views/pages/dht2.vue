@@ -66,8 +66,7 @@
      <p class="left">
       Video 19:
       <a
-        href=""
-        style="color:violet;"
+        href="https://drive.google.com/file/d/1fAuBG3gUXOCmziukb9XqoxQntAE4Mnfd/view?usp=sharing"
         target="_blank"
         >Video 19
       </a>
