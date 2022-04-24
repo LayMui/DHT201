@@ -14,7 +14,7 @@
     <p class="left">
       Video 13:
       <a
-        href="https://drive.google.com/file/d/1LoGOyVyp7q1HDcXV5vhI0oXnzk6G1URe/view?usp=sharing"
+        href="https://drive.google.com/file/d/1xUVxq0ogaWA-TkhKiQB4A6D2t9VKjO2V/view?usp=sharing"
         target="_blank"  
         >Video 13
       </a>
@@ -41,7 +41,7 @@
       <p class="left">
       Video 16:
       <a
-        href="https://drive.google.com/file/d/1Wt9scfdFvqXhzBPRqhAhh0sAmjMPS2JZ/view?usp=sharing"
+        href="https://drive.google.com/file/d/1PkS6UJBgomQZyYG_Ld3eSO60fLh5ft5T/view?usp=sharing"
         target="_blank"
         >Video 16
       </a>
