@@ -61,7 +61,6 @@
       Video 9:
       <a
         href="https://drive.google.com/file/d/1-XfVnP3E_GJixAyUwNsYP4IrOhT4SofB/view?usp=sharing"
-        style="color:red;"
         target="_blank"
         >Video 9
       </a>
